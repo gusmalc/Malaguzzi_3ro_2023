@@ -1,0 +1,25 @@
+body{
+    background: #222;
+    color: #ea8080;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+#contenedor{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+h1{
+    font-size: 4rem;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+}
+h2{
+    font-size: 2.5rem;
+    font-family: 'Courgette', cursive;
+}
+
+p{
+    font-weight: bold;
+    font-size: 1.8rem;
+}

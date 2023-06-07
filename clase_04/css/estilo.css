@@ -1,0 +1,15 @@
+body{
+    background-color: #222;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #eae629;
+}
+
+#caja1{
+    width: 300px;
+    height: 50px;
+    background-color: #29cdea;
+}

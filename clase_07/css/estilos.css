@@ -1,0 +1,21 @@
+body{
+    background-color: #222;
+    color: #fff;
+}
+
+h1{
+    color: #f00;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#titulo_rojo{
+    color: #00f;
+}
+
+#caja1{
+    color: #222;
+    font-size: 1.3rem;
+    background-color: #89de43;
+    padding: 20px;
+    margin-top: 40px;
+}
